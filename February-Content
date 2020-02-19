@@ -1,6 +1,6 @@
-# 開発者向けコンテンツ
-マイクロソフトの開発者リレーションチームによるコミュニティ向けコンテンツ
-※ [Tech Flash](https://www.microsoft.com/ja-jp/mscorp/communications.aspx)ニュースレター 2020年2月20日掲載分
+※ 2020年2月20日配信の[Tech Flash](https://www.microsoft.com/ja-jp/mscorp/communications.aspx)ニュースレターでも紹介しております
+
+## コミュニティ向けコンテンツ 2月号
 
 |#| 分類 | コンテンツ名     |  概要    | 
 | ---------- | ---------- | ---------- | ---------- | 
@@ -16,8 +16,8 @@
 | 10 | Tools | [Advanced Blazor GitHub Project](https://github.com/JeremyLikness/AdvancedBlazor) | This project that demonstrates code-sharing between Blazor Server and Blazor WebAssembly projects using Razor class libraries, including embedding JavaScript resources and debugging both from the server and from Edge. | 
 
 
-# MS Learnおすすめラーニングパス
-マイクロソフトのラーニングプラットフォームである[MS Learn](https://aka.ms/MSLearn-Japan)のおすすめラーニングパス
+# MS Learnおすすめラーニングパス 2月号
+マイクロソフトのラーニングプラットフォームである[MS Learn](https://aka.ms/MSLearn-Japan)のおすすめラーニングパス第1弾！
 
 - クラウドの基礎
   - [Azure Fundamentals](https://aka.ms/AFUN-LP)
@@ -28,8 +28,3 @@
   - [機械学習の短期集中コース](https://aka.ms/MLCrashCourse-LP)
   - [AI エッジ エンジニア](https://aka.ms/AIEdge-LP)
   
-# コンテンツリクエストフォーム
-ニーズのあるコンテンツがございましたら、[こちらのフォーム](aka.ms/CAContentRequest)からリクエストをご提出ください。
-過去に参照されたコンテンツへのフィードバックや和訳リクエストも受け付けております。
-新規コンテンツ及び和訳済みコンテンツは、前月25日までの受付分を、毎月1日に[こちらのGitHubレポジトリ](aka.ms/CAContent4JPN)に格納致します。
-初回は、様々なトピックを入れ混ぜておりますが、皆様のフィードバックに応じて柔軟に対応していく予定です！
