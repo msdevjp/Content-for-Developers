@@ -1,10 +1,10 @@
-# 開発者向けコンテンツ
-マイクロソフトの開発者リレーションチームによるコミュニティ向けコンテンツ
+# マイクロソフトの開発者リレーションチームによるコミュニティ向けコンテンツ
 
-マイクロソフトの開発者リレーションチームであるCloud Advocatesが開発者及びITプロの方向けに作成している3,000件以上のコンテンツの中から、すぐに使えるサンプルコードやハンズオンを毎月10件ずつ抽出し、こちらのGitHubアカウントに格納していきますのでぜひご活用ください！
-大人気なMSLearnのおすすめラーニングパスも掲載していく予定です！
+マイクロソフトの開発者リレーションチームである[Cloud Advocates](https://developer.microsoft.com/ja-jp/advocates/index.html)が開発者及びITプロの方向けに作成している3,000件以上のコンテンツの中から、すぐに使えるサンプルコードやハンズオンを毎月10件ずつ抽出し、こちらのGitHubアカウントに格納していきますのでぜひご活用ください！大人気なMSLearnのおすすめラーニングパスも掲載していく予定です。リクエストは下記のリクエストフォームをご利用ください。
+※ 2020年2月20日配信の[Tech Flash](https://www.microsoft.com/ja-jp/mscorp/communications.aspx)ニュースレターでも紹介しております。
 
-## [Tech Flash](https://www.microsoft.com/ja-jp/mscorp/communications.aspx)ニュースレター 2020年2月20日掲載分
+
+## コミュニティ向けコンテンツ 2月号
 
 |#| 分類 | コンテンツ名     |  概要    | 
 | ---------- | ---------- | ---------- | ---------- | 
@@ -20,8 +20,8 @@
 | 10 | Tools | [Advanced Blazor GitHub Project](https://github.com/JeremyLikness/AdvancedBlazor) | This project that demonstrates code-sharing between Blazor Server and Blazor WebAssembly projects using Razor class libraries, including embedding JavaScript resources and debugging both from the server and from Edge. | 
 
 
-# MS Learnおすすめラーニングパス
-マイクロソフトのラーニングプラットフォームである[MS Learn](https://aka.ms/MSLearn-Japan)のおすすめラーニングパス
+# MS Learnおすすめラーニングパス 2月号
+マイクロソフトのラーニングプラットフォームである[MS Learn](https://aka.ms/MSLearn-Japan)のおすすめラーニングパス第1弾！
 
 - クラウドの基礎
   - [Azure Fundamentals](https://aka.ms/AFUN-LP)
