@@ -40,4 +40,8 @@
 新規コンテンツ及び和訳済みコンテンツは、前月25日までの受付分を、毎月1日に[こちらのGitHubレポジトリ](https://aka.ms/CAContent4JPN)に格納致します。
 初回は、様々なトピックを入れ混ぜておりますが、皆様のフィードバックに応じて柔軟に対応していく予定です！
 
+# その他リソース
+- [Azure無料トライアル](https://azure.microsoft.com/free?wt.mc_id=msdevjp-github-kryasuda)
+-	[VS Code](https://code.visualstudio.com/?wt.mc_id=msdevjp-github-kryasuda)
+
 日本のCloud Advocatesチーム一同
